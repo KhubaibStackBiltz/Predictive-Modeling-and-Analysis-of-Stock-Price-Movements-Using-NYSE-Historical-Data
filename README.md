@@ -1,0 +1,2 @@
+# Predictive-Modeling-and-Analysis-of-Stock-Price-Movements-Using-NYSE-Historical-Data
+We will preprocess the data, design features, and use models on the dataset. The accuracy of their  prediction and their capacity to profitable trading methods will be the criteria used to test their  performance. The goal is to provide insight into the performance of different trading techniques and  models within the framework
